@@ -106,7 +106,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .backG {
-  background-color: #aff1ab;
+  background-image: linear-gradient(rgb(17, 17, 17), rgb(61, 61, 61));
 }
 
 .display-1{
